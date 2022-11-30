@@ -27,7 +27,7 @@ Link:
 http://localhost:8000/
 
 
-### About The Assignment
+## About The Assignment
 
 Genomic Data Analysis and Visualization Web Application
 
